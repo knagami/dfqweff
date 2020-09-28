@@ -1,3 +1,5 @@
+<?php namespace Track;
+
 function main($lines) {
   $salesList = [];
   foreach ($lines as $index=>$value) {
